@@ -5,4 +5,5 @@ var campos = [
     document.querySelector('#valor')
 ];
 //Imprime os objetos para saida
+//testando o guit
 console.log(campos);
