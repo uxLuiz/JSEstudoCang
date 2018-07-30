@@ -5,5 +5,9 @@ var campos = [
     document.querySelector('#valor')
 ];
 //Imprime os objetos para saida
-//testando o guit
 console.log(campos);
+
+//Com esse script vou pegar o tbody do html
+var tbody = document.querySelector('table tbody');
+
+
